@@ -1,5 +1,3 @@
-<p><strong><span style="color: red;">⚠️ Having issues with my computer so no code uploaded yet.</span></strong></p>
-
 ## 🧠 Fall & Near-Fall Detection from Wearable Sensor Data
 
 This project applies machine learning and classical signal processing to detect **falls, near-falls, and daily activities** using **wearable IMU, ECG, and GSS sensor data** collected at 1000Hz.
